@@ -19,7 +19,6 @@
 
 - 🔎 Recherche intelligente avec suggestions dynamiques
 - 🎬 Navigation interactive (anime → saison → épisode)
-- 🎨 Interface colorée et logo stylé
 - ⚡️ Lecture directe dans VLC (ou tout lecteur compatible)
 - 🖱️ 100% clavier, aucune souris requise
 
