@@ -47,15 +47,7 @@ Assurez-vous d’avoir Python 3.8 à 3.11 (recommandé) et pip installés.
 pip install -r requirements.txt
 ```
 
-**Exemple de requirements.txt :**
-```
-prompt_toolkit
-colorama
-yt-dlp
-anime-cli @ git+https://github.com/ton-pseudo/anime-cli.git
-```
-
-### 3. **Lancer le programme**
+### 2. **Lancer le programme**
 
 ```sh
 python main_interactif.py
