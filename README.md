@@ -86,11 +86,9 @@ python main_interactif.py
 ## ❓ FAQ
 
 - **Q : Je vois des caractères bizarres au lieu des couleurs !**
-  - Lance le script dans `cmd.exe` ou `Windows Terminal` (évite certains IDE).
+  - Lancez le script dans `cmd.exe` ou `Windows Terminal` (évite certains IDE).
 - **Q : VLC ne se lance pas ?**
-  - Vérifie le chemin de VLC dans le script (`C:\Program Files\VideoLAN\VLC\vlc.exe`).
-- **Q : PyInstaller ne fonctionne pas avec Python 3.12+ ?**
-  - Utilise Python 3.8 à 3.11 pour créer un exécutable, ou lance le script directement.
+  - Vérifiez le chemin de VLC dans le script (`C:\Program Files\VideoLAN\VLC\vlc.exe`).
 
 ---
 
