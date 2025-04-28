@@ -1,0 +1,4 @@
+prompt_toolkit>=3.0.0
+colorama>=0.4.0
+yt-dlp>=2023.0.0
+anime-sama-api
