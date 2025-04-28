@@ -26,7 +26,7 @@
 
 ## 📸 Aperçu
 
-![lamz-cli demo](https://user-images.githubusercontent.com/0000000/lamz-cli-demo.gif) 
+![lamz-cli demo]([https://user-images.githubusercontent.com/0000000/lamz-cli-demo.gif](https://github.com/Lam1ne/lamz-cli/blob/main/img/image.png?raw=true)) 
 
 ---
 
