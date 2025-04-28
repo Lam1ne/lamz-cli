@@ -26,7 +26,7 @@
 
 ## 📸 Aperçu
 
-![lamz-cli demo](https://user-images.githubusercontent.com/0000000/lamz-cli-demo.gif) <!-- Ajoute un GIF ou une capture d'écran ici si tu veux -->
+![lamz-cli demo](https://user-images.githubusercontent.com/0000000/lamz-cli-demo.gif) 
 
 ---
 
@@ -41,7 +41,7 @@ cd lamz-cli
 
 ### 2. **Installer les dépendances**
 
-Assure-toi d’avoir Python 3.8 à 3.11 (recommandé) et pip installés.
+Assurez-vous d’avoir Python 3.8 à 3.11 (recommandé) et pip installés.
 
 ```sh
 pip install -r requirements.txt
@@ -84,10 +84,10 @@ python main_interactif.py
 
 ## 🖥️ Dépendances
 
-- [prompt_toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit)
-- [colorama](https://github.com/tartley/colorama)
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- [anime-cli](https://github.com/ton-pseudo/anime-cli) (ou ton API)
+- [prompt_toolkit]
+- [colorama]
+- [yt-dlp]
+- [anime-sama-api] 
 
 ---
 
@@ -105,7 +105,7 @@ python main_interactif.py
 ## 🤝 Contribuer
 
 Les PR et suggestions sont les bienvenues !  
-N’hésite pas à ouvrir une issue ou à proposer une amélioration.
+N’hésitez pas à ouvrir une issue ou à proposer une amélioration.
 
 ---
 
@@ -115,6 +115,3 @@ MIT
 
 ---
 
-<div align="center">
-  <b>lamz-cli</b> — Le terminal qui donne envie de mater des animes !
-</div>
