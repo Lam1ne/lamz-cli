@@ -67,10 +67,9 @@ python main_interactif.py
 ## 💡 Fonctionnalités
 
 - **Recherche interactive** avec autocomplétion
-- **Menus colorés** et logo ASCII art
 - **Navigation fluide** entre animes, saisons et épisodes
 - **Lecture sans pub** (lien direct extrait avec yt-dlp)
-- **Support Windows (cmd, PowerShell, Windows Terminal)**
+- **Support Windows (cmd, PowerShell, Windows Terminal) et toute autre architecture**
 
 ---
 
